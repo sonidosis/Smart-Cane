@@ -6,6 +6,26 @@ A multidisciplinary senior-design assistive-device project combining embedded sy
 
 Smart Cane is a team capstone project centered on the design and prototyping of a smart-cane assistive device. The project brings together embedded software, electronics, sensors, mechanical packaging, and iterative prototype integration.
 
+## Project visuals
+
+### Fabricated PCB
+
+![Fabricated Smart Cane PCB](fabricated-pcb.jpg)
+
+*Fabricated Smart Cane PCB.*
+
+### PCB 3D render
+
+![Smart Cane PCB 3D render](pcb-3d-render.jpg)
+
+*3D render used to evaluate the physical board design and component placement.*
+
+### Bluetooth app logic
+
+![Bluetooth app logic](bluetooth-app-logic.jpg)
+
+*Mobile-app logic for Bluetooth connection and information flow.*
+
 ## Engineering contributions
 
 ### Mechanical packaging and physical integration
